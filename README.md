@@ -17,6 +17,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=bikash2060&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bikash2060&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=bikash2060&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
