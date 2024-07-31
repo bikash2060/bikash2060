@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 # 💫 About Me:
-🔭 I'm currently working on https://github.com/bikash2060/library-management-web-platform<br>🌱 I’m currently learning Spring Framework<br>⚡ Fun fact - I can procrastinate the procrastination
+👋 Hi, I'm Bikash Bhattarai<br> Welcome to my profile! I am an enthusiastic and dedicated student pursuing a BSc (Hons) in Computing at Islington College Kathmandu. Programming has captured my heart, and I am particularly drawn to the exciting world of programming.<br>🌱 I’m currently learning Spring Framework<br>⚡ Fun fact - I can procrastinate the procrastination
 
 
 ## 🌐 Socials:
