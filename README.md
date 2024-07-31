@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/f8/18/3c/f8183c36fec5e1756f3c9875da245362.gif)
 # 💫 About Me:
-👋 Hi, I'm <strong>Bikash Bhattarai</strong><br><br>Welcome to my profile! I am an enthusiastic and dedicated student pursuing a BSc (Hons) in Computing at Islington College Kathmandu. Programming has captured my heart, and I am particularly drawn to the exciting world of programming.<br><br>🌱 I’m currently learning Spring Framework<br>⚡ Fun fact - I can procrastinate the procrastination
+👋 Hi, I'm <strong>Bikash Bhattarai</strong><br><br>Welcome to my profile! I am an enthusiastic and dedicated student pursuing a BSc (Hons) in Computing at Islington College Kathmandu. Programming has captured my heart, and I am particularly drawn to the exciting world of programming.<br><br>🌱 I’m currently learning Spring Framework<br>⚡ Fun fact - I can procrastinate the procrastination<br>📫 Feel free to reach out to me via email at bkashbhattarai@gmail.com
 
 
 ## 🌐 Socials:
