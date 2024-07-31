@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+[MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Bikash Bhattarai</h1>
 <h3 align="center">A passionate developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/bhattarai_bsal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhattarai_bsal2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bikashbhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikashbhattarai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bishalbhattarai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bishalbhattarai2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@bishalbhattarai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishalbhattarai2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishalbhattarai472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishalbhattarai472" height="30" width="40" /></a>
 <a href="https://discord.gg/spider_suiiiiiiiii#4961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spider_suiiiiiiiii#4961" height="30" width="40" /></a>
 </p>
