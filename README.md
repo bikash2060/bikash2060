@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [library-management-web-platform](https://github.com/bikash2060/library-management-web-platform)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **bkashbhattarai@gmail.com**
 
