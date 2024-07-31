@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/bhattarai_bsal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhattarai_bsal2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bikashbhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikashbhattarai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bishalbhattarai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishalbhattarai2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bishalbhattarai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bishalbhattarai2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bishalbhattarai472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bishalbhattarai472" height="30" width="40" /></a>
 <a href="https://discord.gg/spider_suiiiiiiiii#4961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spider_suiiiiiiiii#4961" height="30" width="40" /></a>
 </p>
