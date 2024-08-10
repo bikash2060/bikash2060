@@ -5,7 +5,7 @@
 # 🚀 What I'm Doing Right Now:
 
 🌱 I’m currently learning <strong>Spring Framework</strong><br>
-💻 I’m currently working on Library Web App <a href="https://github.com/bikash2060/library-management-web-platform" target="_blank">Link</a><br>
+💻 I’m currently working on Library Web App <a href="https://github.com/bikash2060/library-app" target="_blank">Link</a><br>
 ⚡ Fun fact - I can procrastinate the procrastination<br>
 📫 Feel free to reach out to me via email at bkashbhattarai@gmail.com
 
